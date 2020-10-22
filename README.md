@@ -24,3 +24,8 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 
 ## Gedanken
 - Das Microsoft Surface inkl. Stift nutze ich zur Aufnahme von Video, Audio und handschriftlichen Notizen, die ich in die Präsentationen mache. Wenn ich diese Aufgaben mit einem iPad erledigen kann, ist das Surface obsolet.
+
+## Weitere nützliche Werkzeuge
+- [JupyterLab](https://jupyter.org)
+- [Whiteboard.com](https://witeboard.com/)
+- [Mentimeter.com](https://www.mentimeter.com)
