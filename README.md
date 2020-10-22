@@ -21,3 +21,6 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 5. Kompression mit `ffmpeg` auf Mac: `ffmpeg -i <INPUT.mp4> -c:a copy -c:v libx264 <OUTPUT.mp4>`
 6. Thumbnail für Youtube extrahieren: `ffmpeg -i <INPUT.mp4> -vframes 1 thumbnail.jpg`
 7. Upload auf Youtube mit nicht-öffentlichem Link
+
+## Gedanken
+- Das Microsoft Surface inkl. Stift nutze ich zur Aufnahme von Video, Audio und handschriftlichen Notizen, die ich in die Präsentationen mache. Wenn ich diese Aufgaben mit einem iPad erledigen kann, ist das Surface obsolet.
