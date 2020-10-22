@@ -5,4 +5,4 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 ## Ausrüstung
 
 - MacBookPro 13 Zoll (2019)
-- Headset: Sennheiser PC 360 ([https://amzn.to/2TdXJ6f](Amazon))
+- Headset: Sennheiser PC 360 ([Amazon](https://amzn.to/2TdXJ6f))
