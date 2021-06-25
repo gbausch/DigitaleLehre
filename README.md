@@ -4,16 +4,20 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 
 ## Ausrüstung
 - MacBookPro 13 Zoll (2019)
-- Microsoft Surface inkl. Stift
+- iPad Air (4. Generation) inkl. Apple Pencil
+- ~Microsoft Surface inkl. Stift~
 - Headset: [Sennheiser PC 360](https://amzn.to/2TdXJ6f)
 - Dokumentenkamera: [IPEVO VZ-X8M](https://www.ipevo.com/products/vz-x)
 
 ## Software
+### Aufzeichnung von Videos
 - [OBS Studio](https://obsproject.com/de/)
 - [Apple iMovie](https://www.apple.com/de/imovie/)
 - [Youtube](https://youtube.com)
+### Präsentation
+- [GoodNotes](https://www.goodnotes.com) für iPad/MacOS
 
-## Workflow
+## Workflow für Videos
 1. Erstellung von Präsentationsfolien mit Keynote
 2. Export der Keynote-Präsentationen als PDF (jede Animationsstufe einzeln)
 3. Aufnahme mit OBS auf Surface (wenn Stiftunterstützung notwendig ist)
@@ -23,9 +27,10 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 7. Upload auf Youtube mit nicht-öffentlichem Link
 
 ## Gedanken
-- Das Microsoft Surface inkl. Stift nutze ich zur Aufnahme von Video, Audio und handschriftlichen Notizen, die ich in die Präsentationen mache. Wenn ich diese Aufgaben mit einem iPad erledigen kann, ist das Surface obsolet.
+- ~Das Microsoft Surface inkl. Stift nutze ich zur Aufnahme von Video, Audio und handschriftlichen Notizen, die ich in die Präsentationen mache. Wenn ich diese Aufgaben mit einem iPad erledigen kann, ist das Surface obsolet.~
 
 ## Weitere nützliche Werkzeuge
 - [JupyterLab](https://jupyter.org)
-- [Whiteboard.com](https://witeboard.com/)
+- ~[Whiteboard.com](https://witeboard.com/)~
+- [Slido](https://www.sli.do/de)
 - [Mentimeter.com](https://www.mentimeter.com)
