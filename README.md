@@ -1,6 +1,6 @@
 # Digitale Lehre
 
-Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Erstellung digitaler Lehrinhalte, die ich im Sommersemester 2020 zusammengetragen habe.
+Diese Seite dokumentiert meine Erfahrungen sowie verwendete Werkzeuge und Workflows zur Erstellung digitaler Lehrinhalte, die ich im Sommersemester 2020 zusammengetragen habe.
 
 ## Ausrüstung
 - MacBookPro 13 Zoll (2019)
