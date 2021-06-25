@@ -13,14 +13,14 @@ Diese Seite dokumentiert meine Erfahrungen sowie Werkzeuge und Workflows zur Ers
 ### Präsentation
 - [Apple Keynote](https://www.apple.com/de/keynote/) zur Erstellung von Präsentationen (Export als PDF)
 - [GoodNotes](https://www.goodnotes.com) für Präsentation und Notizen
-- [AirServer](https://www.airserver.com) iPad -> MacOS -> Freigabe in [Zoom](https://zoom.us)
+- [AirServer](https://www.airserver.com): iPad -> MacOS -> Freigabe in [Zoom](https://zoom.us)
 
 ### Aufzeichnung von Videos
 - [OBS Studio](https://obsproject.com/de/)
 - [Apple iMovie](https://www.apple.com/de/imovie/)
 - [Youtube](https://youtube.com)
 
-## Workflow für Videos
+## Workflow zur Erstellung von Videos
 1. Erstellung von Präsentationsfolien mit Keynote
 2. Export der Keynote-Präsentationen als PDF (jede Animationsstufe einzeln)
 3. Aufnahme mit OBS auf Surface (wenn Stiftunterstützung notwendig ist)
